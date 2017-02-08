@@ -9,7 +9,7 @@
 
 	<groupId>org.kohsuke</groupId>
 	<artifactId>java-gitlab-api</artifactId>
-	<version>1.2.7-kohsuke-1-SNAPSHOT</version>
+	<version>1.2.7-kohsuke-1</version>
 
 	<name>Gitlab Java API Wrapper</name>
 	<description>A Java wrapper for the Gitlab Git Hosting Server API</description>
@@ -51,7 +51,8 @@
 		<connection>scm:git:ssh://github.com/kohsuke/java-gitlab-api.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/kohsuke/java-gitlab-api.git</developerConnection>
 		<url>https://github.com/kohsuke/java-gitlab-api</url>
-	</scm>
+	  <tag>java-gitlab-api-1.2.7-kohsuke-1</tag>
+  </scm>
 
 	<issueManagement>
 		<system>Github</system>
